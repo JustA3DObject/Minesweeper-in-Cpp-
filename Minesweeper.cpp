@@ -1,6 +1,6 @@
 /*
 Minesweeper game using CPP
-Made by: just_another_3d_object & Shubhi Vishnoi
+Made by: just_another_3d_object
 */
 #include <iostream>
 #include <ctime>
